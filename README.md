@@ -1,3 +1,7 @@
+# Changes from OpenAI/whisper
+
+This fork allows users to return the token-wise logits from an audio sample. This can be particularly useful when investigating ASR uncertainty, which is relevant for e.g. speech intelligibility prediction.
+
 # Whisper
 
 [[Blog]](https://openai.com/blog/whisper)
